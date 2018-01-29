@@ -32,8 +32,12 @@ We will be adding new ships with new abilities for the player to face, such as a
 
 ### 1.5 Time Mangement/Schedule 
 
+INSERT GANTT CHART HERE!
 
 ### 1.6 Risks
+The project runs several risks that could affect when the project is completed.
+
+Firstly,  
 
 ### 1.7 Resources
 
