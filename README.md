@@ -3,26 +3,35 @@
 ## 1.0 Project Management Documentation
 
 ### 1.1 Project Aims
+During this project I will aim to create a rebooted version of the classic game 'Space Invaders' that adds various new features such as multiplayer, powerups, and new enemies.
 
 ### 1.2 System Requirements
 
-### 1.3 Software Investigation
+#### 1.2.1 Development System Requirements
+In order to complete this project, I will need access to a number of specific softwares and systems. 
 
-### 1.4 Cost
+##### Unity
+I will be using Unity to develop my game as it can easily be used to develop for the PC platform which I plan to develop the game for. I also have a lot of past experience with Unity having used it to develop past projects.
+##### Internet Access
+I will need internet access to help me collect secondary research data through sources such as public reports and web articles, and my primary research as I plan to use online surveys to collect data. Additionally, web access can help me work more efficiently as I can save my work to the cloud and work from home as well as in class.
+##### 
 
-### 1.5 Scope 
+### 1.3 Cost
+As I will be developing for PC and possibly Android, I won't need to purchase developers licences as these platforms can be developed for and launched on for free. The cost for a Unity Pro licence is $125 per month. This is where a considerable ammount of the money that is spent on this project will go 
 
-### 1.6 Time Mangement/Schedule 
+### 1.4 Scope 
 
-### 1.7 Risks
+### 1.5 Time Mangement/Schedule 
 
-### 1.8 Resources
+### 1.6 Risks
 
-### 1.9 Problems and Solutions
+### 1.7 Resources
 
-### 1.10 Contingency Plans
+### 1.8 Problems and Solutions
 
-### 1.11 Feasibility Report
+### 1.9 Contingency Plans
+
+### 1.10 Feasibility Report
 
 ## 2.0 Research
 
