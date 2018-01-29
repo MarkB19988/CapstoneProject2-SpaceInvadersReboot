@@ -6,8 +6,6 @@
 During this project I will aim to create a rebooted version of the classic game 'Space Invaders' that adds various new features such as multiplayer, powerups, and new enemies.
 
 ### 1.2 System Requirements
-
-#### 1.2.1 Development System Requirements
 In order to complete this project, I will need access to a number of specific softwares and systems. 
 
 ##### Unity
@@ -17,9 +15,18 @@ I will need internet access to help me collect secondary research data through s
 ##### 
 
 ### 1.3 Cost
-As I will be developing for PC and possibly Android, I won't need to purchase developers licences as these platforms can be developed for and launched on for free. The cost for a Unity Pro licence is $125 per month. This is where a considerable ammount of the money that is spent on this project will go 
+As I will be developing for PC and possibly Android, I won't need to purchase developers licences as these platforms can be developed for and launched on for free. The cost for a Unity Pro licence is $125 per month. This is where a considerable ammount of the money that is spent on this project will go. Realistically, to account for possible delays I would need to purchase atleast 3 months of Unity Pro to make sure that I complete the project, this puts my Unity costs at $375.
+
+I will need a system that I can develop on from home. My PC is fully capable of running development software and meets Unity's system requirements by a considerable margain. The cost for my home system was $970, although the purchase was made several years ago, I believe it is still a relevent factor to be included in the cost of my project.
+
+My home internet access costs $45.99 per month and is required for this project for the reasons stated in section 1.2.1. So assuming the project runs for 3 months I will include 4 months of internet access in the cost of the project for contingency incase of delays. This totals $183.96
+
+All other software that I will need to create presentations and documentation is free (Microsoft Office, Google Docs ect.)
+
+In total I put the cost of this projects development at $1528.96
 
 ### 1.4 Scope 
+
 
 ### 1.5 Time Mangement/Schedule 
 
