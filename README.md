@@ -26,10 +26,12 @@ All other software that I will need to create presentations and documentation is
 In total I put the cost of this projects development at $1528.96
 
 ### 1.4 Scope 
-The game must stay close to the style and theme of the original Space Invaders while adding new features.
+The game must stay close to the style and theme of the original Space Invaders while adding new features. Our new features should not change the way in which space invaders itself is played. They player must still have the same ovjective of destroying ships before they reach the ground.
 
+We will be adding new ships with new abilities for the player to face, such as a ship that fires multiple shots at one, or ones that move faster than the others so must be taken out first. Despite this, no ships will add new objectives to the game or change the end goal for the player. Similarly, new powerups that the player can collect can change how the players ship behaves or how it fires, but will not change the fact that the player must stay on the bottom of the screen and defend against the invading ships.
 
 ### 1.5 Time Mangement/Schedule 
+
 
 ### 1.6 Risks
 
