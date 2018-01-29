@@ -26,6 +26,7 @@ All other software that I will need to create presentations and documentation is
 In total I put the cost of this projects development at $1528.96
 
 ### 1.4 Scope 
+The game must stay close to the style and theme of the original Space Invaders while adding new features.
 
 
 ### 1.5 Time Mangement/Schedule 
