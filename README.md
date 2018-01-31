@@ -2,7 +2,7 @@
 
 ## 1.0 Project Management Documentation
 
-### 1.1 Project Aims
+### 1.1 Project Aim
 During this project I will aim to create a rebooted version of the classic game 'Space Invaders' that adds various new features such as multiplayer, powerups, and new enemies.
 
 ### 1.2 System Requirements/Resources
@@ -31,7 +31,7 @@ In total I put the cost of this projects development at $1528.96
 ### 1.4 Scope 
 The game must stay close to the style and theme of the original Space Invaders while adding new features. Our new features should not change the way in which space invaders itself is played. They player must still have the same ovjective of destroying ships before they reach the ground.
 
-We will be adding new ships with new abilities for the player to face, such as a ship that fires multiple shots at one, or ones that move faster than the others so must be taken out first. Despite this, no ships will add new objectives to the game or change the end goal for the player. Similarly, new powerups that the player can collect can change how the players ship behaves or how it fires, but will not change the fact that the player must stay on the bottom of the screen and defend against the invading ships.
+We will be adding new ships with new abilities for the player to face, such as a ship that fires multiple shots at once, or ones that move faster than the others so must be taken out first. Despite this, no ships will add new objectives to the game or change the end goal for the player. Similarly, new powerups that the player can collect can change how the players ship behaves or how it fires, but will not change the fact that the player must stay on the bottom of the screen and defend against the invading ships.
 
 ### 1.5 Time Mangement/Schedule 
 
@@ -67,7 +67,7 @@ To account for personal illness or emergencys, in my schedule I have set the com
 'Space Assault' is a planned reboot and reimagining of the classic 1978 arcade game 'Space Invaders'. This reboot will add a numerous new features into the game while retaining the original concept and goals of the game, which is to destroy the enemy ships before they land. The features that will be added to the game are the idea of power-ups that the player can pick up that will change the behaviour of his ship (e.g. new weapons, faster movement, defence repairing). The most promenent feature that will be added is the introduction of PvP muliplayer in which one player takes on the role of defence and another player take on the role of the attackers, sending in more ships using points that they accumulate by destroying the defenders blockades and shields.
 
 ##### Technology Considerations
-
+The technology required to complete this project has already been aquired. This includes high speed internet access that is already availible at the college campus and my home internet package that 
 
 ## 2.0 Research
 
