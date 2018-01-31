@@ -67,7 +67,11 @@ To account for personal illness or emergencys, in my schedule I have set the com
 'Space Assault' is a planned reboot and reimagining of the classic 1978 arcade game 'Space Invaders'. This reboot will add a numerous new features into the game while retaining the original concept and goals of the game, which is to destroy the enemy ships before they land. The features that will be added to the game are the idea of power-ups that the player can pick up that will change the behaviour of his ship (e.g. new weapons, faster movement, defence repairing). The most promenent feature that will be added is the introduction of PvP muliplayer in which one player takes on the role of defence and another player take on the role of the attackers, sending in more ships using points that they accumulate by destroying the defenders blockades and shields.
 
 ##### Technology Considerations
-The technology required to complete this project has already been aquired. This includes high speed internet access that is already availible at the college campus and my home internet package that 
+The technology required to complete this project has already been aquired. This includes high speed internet access that is already availible at the college campus and my home internet package that I pay for monthly, the costs of which have already been added up and included in the cost of the project in section 1.3. The software needs are also met, as the college as well as my home PC both have access to Unity and IDE software. This coupled with the internet access allows me to work on the project from anywhere using the cloud, all of which has also been calclulated into the total costs for the project. Hardware requirements must also be considered as the computers I have access too must also be able to run the software required. Fortunatly both the college computers and my home PC meet Unity's minimum requirements by a significant margain, so no issues should arise in this area and the project should go ahead without any readily aparent technical issues.
+
+#####
+
+
 
 ## 2.0 Research
 
