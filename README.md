@@ -88,6 +88,7 @@ To account for personal illness or emergencys, in my schedule I have set the com
 ### 3.3 User Stories
 
 ### 3.4 Genre
+'Space Assault' will be a 2D arcade game, the game will be very similar to the original 'Space Invaders'
 
 ### 3.5 Platform 
 
