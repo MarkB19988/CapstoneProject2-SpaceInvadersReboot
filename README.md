@@ -5,14 +5,17 @@
 ### 1.1 Project Aims
 During this project I will aim to create a rebooted version of the classic game 'Space Invaders' that adds various new features such as multiplayer, powerups, and new enemies.
 
-### 1.2 System Requirements
+### 1.2 System Requirements/Resources
 In order to complete this project, I will need access to the following:
 
 ##### Unity
 I will be using Unity to develop my game as it can easily be used to develop for the PC platform which I plan to develop the game for. I also have a lot of past experience with Unity having used it to develop past projects.
+
 ##### Internet Access
 I will need internet access to help me collect secondary research data through sources such as public reports and web articles, and my primary research as I plan to use online surveys to collect data. Additionally, web access can help me work more efficiently as I can save my work to the cloud and work from home as well as in class.
-##### 
+
+##### Computers With Apropriate Specs
+
 
 ### 1.3 Cost
 As I will be developing for PC and possibly Android, I won't need to purchase developers licences as these platforms can be developed for and launched on for free. The cost for a Unity Pro licence is $125 per month. This is where a considerable ammount of the money that is spent on this project will go. Realistically, to account for possible delays I would need to purchase atleast 3 months of Unity Pro to make sure that I complete the project, this puts my Unity costs at $375.
@@ -56,11 +59,15 @@ To account for any possible unexpected cost increases, In the total cost estimat
 To account for PC issues. I will have all the software that I need installed on multliple machines (Home desktop, Personal laptop and College computers). By having these back-up systems to work from, I will be able to continue my work from any one of these machines as my work will be stored on the cloud. To account for internet issues and being unable to access my cloud data, I will always keep an up ot date backup of my project on a external harddrive so I can still take this to any machine and work on my project even without internet access
 
 ##### Personal Illness/Emergency Contingency
-To account for personal illness or emergencys, in my schedule I have set the completed date for my project 10 days ahead of the deadline for the project. By using my time effectively and creating a well thought out schedule I am able to have 
+To account for personal illness or emergencys, in my schedule I have set the completed date for my project 10 days ahead of the deadline for the project. By using my time effectively and creating a well thought out schedule I am able to have spare time included in the schedule that can be used up by emergency situations without pushing the project completion beyond the deadline.
 
-### 1.8 Resources
+### 1.8 Feasibility Report
 
-### 1.9 Feasibility Report
+##### Products and Services
+'Space Assault' is a planned reboot and reimagining of the classic 1978 arcade game 'Space Invaders'. This reboot will add a numerous new features into the game while retaining the original concept and goals of the game, which is to destroy the enemy ships before they land. The features that will be added to the game are the idea of power-ups that the player can pick up that will change the behaviour of his ship (e.g. new weapons, faster movement, defence repairing). The most promenent feature that will be added is the introduction of PvP muliplayer in which one player takes on the role of defence and another player take on the role of the attackers, sending in more ships using points that they accumulate by destroying the defenders blockades and shields.
+
+##### Technology Considerations
+
 
 ## 2.0 Research
 
