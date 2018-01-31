@@ -1,4 +1,4 @@
-# CapstoneProject2-SpaceInvadersReboot
+# Space Invaders Reboot
 
 ## 1.0 Project Management Documentation
 
@@ -6,7 +6,7 @@
 During this project I will aim to create a rebooted version of the classic game 'Space Invaders' that adds various new features such as multiplayer, powerups, and new enemies.
 
 ### 1.2 System Requirements
-In order to complete this project, I will need access to a number of specific softwares and systems. 
+In order to complete this project, I will need access to the following:
 
 ##### Unity
 I will be using Unity to develop my game as it can easily be used to develop for the PC platform which I plan to develop the game for. I also have a lot of past experience with Unity having used it to develop past projects.
@@ -35,17 +35,20 @@ We will be adding new ships with new abilities for the player to face, such as a
 INSERT GANTT CHART HERE!
 
 ### 1.6 Risks
-The project runs several risks that could affect when the project is completed.
+The project runs several risks that could cause problems that would set back the project, they consist of the following:
 
-Firstly,  
+##### Cost Management
+The first risk to the project is one of cost. I could have underestiated the cost of something that I need to complete the project. This would undexpectedly drive up costs midway through the project and could stop the project completely if the money could not be found in time.
 
-### 1.7 Resources
+##### Illness/Emergency
+Secondly, personal illness or an emergency personal matter could force me to take time away from the project and as the project had a fixed deadline
 
-### 1.8 Problems and Solutions
 
-### 1.9 Contingency Plans
+### 1.7 Contigency Plans
 
-### 1.10 Feasibility Report
+### 1.8 Resources
+
+### 1.9 Feasibility Report
 
 ## 2.0 Research
 
