@@ -38,13 +38,25 @@ INSERT GANTT CHART HERE!
 The project runs several risks that could cause problems that would set back the project, they consist of the following:
 
 ##### Cost Management
-The first risk to the project is one of cost. I could have underestiated the cost of something that I need to complete the project. This would undexpectedly drive up costs midway through the project and could stop the project completely if the money could not be found in time.
+One possible risk to the project is one of cost. I could have underestiated the cost of something that I need to complete the project. This would undexpectedly drive up costs midway through the project and could stop the project completely if the money could not be found in time.
 
-##### Illness/Emergency
-Secondly, personal illness or an emergency personal matter could force me to take time away from the project and as the project had a fixed deadline
+##### Hardware/Software Issues
+Hardware such as my home PC or the internet router could become damaged or simple break and stop working. This would have a huge impact on the progress of the project as I would be unable to work from home until I got the computer repaired, this would also drive up costs. If the router broke or the internet stopped working for other reasons, I would not be able to access online articles/books for research. I would also not be able to access any work stored on cloud servers form wherever the internet went down.
 
+##### Personal Illness/Emergency
+Personal illness or an emergency personal matter could force me to take time away from the project and as the project had a fixed deadline, this could result in the project being incomplete by this date due to not enough time being allocated to the project.
 
 ### 1.7 Contigency Plans
+To try and reduce the impact these risks could have on the project I have put in place some coningecy plans to account for each risk, they are as follows:
+
+##### Cost Management Contingency
+To account for any possible unexpected cost increases, In the total cost estimate for the project I have included and 30% overhead to act as a saftey measure that can be used to pay any unexpected costs that may arise during the project. As this money is accounted for before the project is started, I can guarentee that the money will be availible at any point during the project should it be needed.
+
+##### Hardware/Software Issuess Contingency
+To account for PC issues. I will have all the software that I need installed on multliple machines (Home desktop, Personal laptop and College computers). By having these back-up systems to work from, I will be able to continue my work from any one of these machines as my work will be stored on the cloud. To account for internet issues and being unable to access my cloud data, I will always keep an up ot date backup of my project on a external harddrive so I can still take this to any machine and work on my project even without internet access
+
+##### Personal Illness/Emergency Contingency
+To account for personal illness or emergencys, in my schedule I have set the completed date for my project 10 days ahead of the deadline for the project. By using my time effectively and creating a well thought out schedule I am able to have 
 
 ### 1.8 Resources
 
