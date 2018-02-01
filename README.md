@@ -69,7 +69,8 @@ To account for personal illness or emergencys, in my schedule I have set the com
 ##### Technology Considerations
 The technology required to complete this project has already been aquired. This includes high speed internet access that is already availible at the college campus and my home internet package that I pay for monthly, the costs of which have already been added up and included in the cost of the project in section 1.3. The software needs are also met, as the college as well as my home PC both have access to Unity and IDE software. This coupled with the internet access allows me to work on the project from anywhere using the cloud, all of which has also been calclulated into the total costs for the project. Hardware requirements must also be considered as the computers I have access too must also be able to run the software required. Fortunatly both the college computers and my home PC meet Unity's minimum requirements by a significant margain, so no issues should arise in this area and the project should go ahead without any readily aparent technical issues.
 
-#####
+##### Product Marketplace
+
 
 
 
