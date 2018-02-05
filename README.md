@@ -50,7 +50,7 @@ We will be adding new ships with new abilities for the player to face, such as a
 
 ### 1.6 Time Mangement/Schedule 
 
-INSERT GANTT CHART HERE!
+![spaceassault-gant-chart](https://i.imgur.com/zhoxB4N.png)
 
 ### 1.7 Risks
 The project runs several risks that could cause problems that would set back the project, they consist of the following:
