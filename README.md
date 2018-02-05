@@ -101,7 +101,7 @@ A key part of building a system is making that system secure. While new vulnerab
 
 ##### Research Plan 
 
-The first step of reducing vulnerabilities is understand what vulnerabilities are and how they can affect the long and short term sucess of a system. To determine how informed people (specifically other software devlopers) are about potential vulnerabilities
+The first step to reducing vulnerabilities is to understand what they are and how they can affect the long and short term sucess of a system. To determine how informed people (specifically other software devlopers) are about potential vulnerabilities I will be creating a questionair that will ask questions about
 
 
 ## 2.0 Design Research
