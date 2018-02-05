@@ -16,7 +16,7 @@ During this project I will gain a deeper understanding of the different vulnerab
 
 ### 1.2 General Plan
 
-quick overview
+quick overview/narrative, basically an elevator pitch, 1 maybe 2 paras.
 
 ### 1.3 System Requirements/Resources
 In order to complete this project, I will need access to the following:
@@ -95,10 +95,14 @@ The technology required to complete this project has already been aquired. This 
 
 ### 1.11 Reducing Vulnerabilities During Development
 
-A key part of building a system is making that system secure. While new vulnerabilities in existing systems can be exposed at any time, it is always important to try and minimize or reduce the vulnerablities in a system during it's development. In order to make sure that I take the correct steps 
+A key part of building a system is making that system secure. While new vulnerabilities in existing systems can be exposed at any time, it is always important to try and minimize or reduce the vulnerablities in a system during it's development. In order to make sure that I take the correct steps I will be undertaking a research project to determine what I can do to reduce the vulnerabilities in my game during development.
+
+##### Research Plan 
+
+The first step of reducing vulnerabilities is understand what vulnerabilities are and how they can affect the long and short term sucess of a system. To determine how informed people (specifically other software devlopers) are 
 
 
-## 2.0 Research
+## 2.0 Design Research
 
 ### 2.1 Tools
 
