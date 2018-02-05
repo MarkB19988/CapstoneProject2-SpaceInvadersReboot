@@ -6,11 +6,13 @@
 
 ##### Overall Project Aim
 
-During this project I will aim to create a rebooted version of the classic game 'Space Invaders' that adds various new features such as multiplayer, powerups, and new enemies. I will aim to complete this by the 23rd March 2018
+During this project I will aim to create a rebooted version of the classic game 'Space Invaders' that adds various new features such as multiplayer, powerups, and new enemies. I will aim to complete this by the 23rd March 2018.
 
 ##### Individual Objectives
 
-During this project I will gain a deeper understanding of the different vulnerabilities a system can have and how to reduce these vulnerabilities during development
+During this project I will gain a deeper understanding of the different vulnerabilities a system can have and how to reduce these vulnerabilities during development.
+
+During this project I will further my knowledge and gain more experience with Unity and the tools it provides.
 
 #####
 
@@ -28,7 +30,7 @@ I will be using Unity to develop my game as it can easily be used to develop for
 I will need internet access to help me collect secondary research data through sources such as public reports and web articles, and my primary research as I plan to use online surveys to collect data. Additionally, web access can help me work more efficiently as I can save my work to the cloud and work from home as well as in class.
 
 ##### Computers With Apropriate Specs
-
+I will need a computer that has capable techinical specifications to run my required software e.g. Unity. I will be checking Unity's minimum requirements to make sure my system(s) meet them and will run without issues.
 
 ### 1.4 Cost
 As I will be developing for PC and possibly Android, I won't need to purchase developers licences as these platforms can be developed for and launched on for free. The cost for a Unity Pro licence is $125 per month. This is where a considerable ammount of the money that is spent on this project will go. Realistically, to account for possible delays I would need to purchase atleast 3 months of Unity Pro to make sure that I complete the project, this puts my Unity costs at $375.
