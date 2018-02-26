@@ -95,13 +95,24 @@ The technology required to complete this project has already been aquired. This 
 
 ##### Product Marketplace
 
-### 1.11 Reducing Vulnerabilities During Development
+### 1.11 Research Project (How to Reduce Vulnerabilities In Software During Development)
 
+##### Introduction
+Software development is the process of making a system or application to run on a piece of hardware
 A key part of building a system is making that system secure. While new vulnerabilities in existing systems can be exposed at any time, it is always important to try and minimize or reduce the vulnerablities in a system during it's development. In order to make sure that I take the correct steps I will be undertaking a research project to determine what I can do to reduce the vulnerabilities in my game during development.
 
-##### Research Plan 
+##### Case Study Overview
+In order to understand how to reduce vulnerabilities during development I will be performing two case studies on recent cyber attacks that have exploited vulnerabilities in existing software. By analysing how these attacks were successful and how they were stopped I will be able to better understand how these vulnerabilities were fixed or mitigated and use these techniques in my project.
 
-The first step to reducing vulnerabilities is to understand what they are and how they can affect the long and short term sucess of a system. To determine how informed people (specifically other software devlopers) are about potential vulnerabilities I will be creating a questionair that will ask questions about
+My first case study will be about the WannaCry ransomware attack that took place on the 12th May 2017.
+
+##### Case Study 1 (WannaCry Ransomware Attack)
+
+WannaCry was a piece of ransomware. Ransomware is a piece of software that threatens to destroy data on the infected machine unless a ransom is paid to the person(s) responsible for 
+
+##### Case Study 2 (
+
+
 
 
 ## 2.0 Design Research
