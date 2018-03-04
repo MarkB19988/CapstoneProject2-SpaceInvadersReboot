@@ -104,16 +104,14 @@ A key part of building a system is making that system secure. While new vulnerab
 ##### Case Study Overview
 In order to understand how to reduce vulnerabilities during development I will be performing two case studies on recent cyber attacks that have exploited vulnerabilities in existing software. By analysing how these attacks were successful and how they were stopped I will be able to better understand how these vulnerabilities were fixed or mitigated and use these techniques in my project.
 
-My first case study will be about the WannaCry ransomware attack that took place on the 12th May 2017.
-
 ##### Case Study 1 (WannaCry Ransomware Attack)
 
 ###### What Happened
-On the 17th of May 2017, a computer virus began to infect computers worldwide, this virus was called 'WannaCry'. WannaCry is a type of virus called 'Ransomware' that is designed to hold a person's data hostage by threatening to delete it or encrypting it. In the case of WannaCry, it did both. (However no reports of permanent data deletion were recorded after the attack had ended). Once WannaCry had encrypted a person's data, the virus demanded a payment to be made of $300 in bitcoin and if not paid within 21 days, it doubled to $600. 
+On the 12th of May 2017, a computer virus began to infect computers worldwide, this virus was called 'WannaCry'. WannaCry is a type of virus called 'Ransomware' that is designed to hold a person's data hostage by threatening to delete it or encrypting it. In the case of WannaCry, it did both. (However no reports of permanent data deletion were recorded after the attack had ended). Once WannaCry had encrypted a person's data, the virus demanded a payment to be made of $300 in bitcoin and if not paid within 21 days, it doubled to $600. 
 
 The virus spread using a backdoor in older windows systems tbat was exposed by the US government after they admited to having knowledge of hundereds of unpatched vulnerabilities in a variety of systems. The reason this backdoor vulnerability hadnt been patched is because the most affected operating system, Windows XP, was beyond if service life and had stopped recieving updates from Microsoft in 2011. This lwft the operating system very vulnerable to new viruses snd attacks. 
 
-While most persons computers no longer run Windows XP
+While most personal computers no longer run Windows XP, many older businesses and organisations have not upgraded theor operating system and still run Windows XP despite the security issues it brings. This was the main reason that WannaCry was able to cause so much damage and disruption in such a small length of time.
 
 ##### Case Study 2 (
 
