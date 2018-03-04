@@ -108,7 +108,9 @@ My first case study will be about the WannaCry ransomware attack that took place
 
 ##### Case Study 1 (WannaCry Ransomware Attack)
 
-WannaCry was a piece of ransomware. Ransomware is a piece of software that threatens to destroy data on the infected machine unless a ransom is paid to the person(s) responsible for 
+###### What Happened
+On the 17th of May 2017, a computer virus began to infect computers worldwide, this virus was called 'WannaCry'. WannaCry is a type of virus called 'Ransomware' that is designed to hold a person's data hostage by threatening to delete it or encrypting it. In the case of WannaCry, it did both. (However no reports of permanent data deletion were recorded after the attack had ended). Once WannaCry had encrypted a person's data, the virus demanded a payment to be made of $300 in bitcoin 
+
 
 ##### Case Study 2 (
 
