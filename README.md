@@ -114,7 +114,7 @@ The virus spread using a backdoor in older windows systems tbat was exposed by t
 While most personal computers no longer run Windows XP, many older businesses and organisations have not upgraded theor operating system and still run Windows XP despite the security issues it brings. This was the main reason that WannaCry was able to cause so much damage and disruption in such a small length of time. The organisation that was most affected by the attack and thst was also the most talked about is tbe British National Health Service (NHS). The attsck crippled the NHS and affected their patient records and appointment logs so many who had scheduled appointments were delayed while the attack was dealt with.
 
 ###### How Was It Stopped?
-On the 19th of May 2017
+On the 19th of May 2017 a 
 
 
 ##### Case Study 2 (
