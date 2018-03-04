@@ -114,7 +114,9 @@ The virus spread using a backdoor in older windows systems tbat was exposed by t
 While most personal computers no longer run Windows XP, many older businesses and organisations have not upgraded theor operating system and still run Windows XP despite the security issues it brings. This was the main reason that WannaCry was able to cause so much damage and disruption in such a small length of time. The organisation that was most affected by the attack and thst was also the most talked about is tbe British National Health Service (NHS). The attsck crippled the NHS and affected their patient records and appointment logs so many who had scheduled appointments were delayed while the attack was dealt with.
 
 ###### How Was It Stopped?
-On the 19th of May 2017 a killswitch was discovered within the virus' code that when activated, stopped the virus from spreading to any new machines
+On the 19th of May 2017 a killswitch was discovered within the virus' code that when activated, stopped the virus from spreading to any new machines. The killswitch itself was a string of cose than ran just before the encryption took place thst attempted to connect to an unregistered domain. if the attempt to connect was unsuccessful then the virus continued on to encrypt the data and spread. However once the person who spotted the killswitch registered the domain and put up a website at that address, the connection became successful and the virus then stopped before it affected the system it was on.
+
+While this was successful in stopping the spread of WannaCry, it didnt help get back data that was already encrypted on other machines. What made thid worse is that despite a strong campaign to tell people not to pay as there was no guarantee that their data would be unencrypted, many people did pay. Resulting in the person(s) behind the attack making upwards of $100,000 during the course of the attack. But despite this there were no reports of anyones data being unencrypted after paying, Leaving many thinking that the data would be unrecoverable forever.
 
 
 ##### Case Study 2 (
