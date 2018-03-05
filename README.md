@@ -125,7 +125,13 @@ While this was successful in stopping the spread of WannaCry, it didnt help get 
 Over a 13 month period from 2002 to 2003, a system administrator from scotland called Gary McKinnon was successfully able to access
 
 
+##### Primary Research
 
+Do software developers practice better cyber security.
+
+How highly do software developers value testing in reducing software vulnerabilities?
+
+Do software developers have a better understanding of 
 
 ## 2.0 Design Research
 
