@@ -119,7 +119,10 @@ On the 19th of May 2017 a killswitch was discovered within the virus' code that 
 While this was successful in stopping the spread of WannaCry, it didnt help get back data that was already encrypted on other machines. What made thid worse is that despite a strong campaign to tell people not to pay as there was no guarantee that their data would be unencrypted, many people did pay. Resulting in the person(s) behind the attack making upwards of $100,000 during the course of the attack. But despite this there were no reports of anyones data being unencrypted after paying, Leaving many thinking that the data would be unrecoverable forever.
 
 
-##### Case Study 2 (
+##### Case Study 2 (Gary McKinnon: United States Military and NASA Computers) 
+
+###### What Happened?
+Over a 13 month period from 2002 to 2003, a system administrator from scotland called Gary McKinnon was successfully able to access
 
 
 
