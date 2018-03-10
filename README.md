@@ -146,8 +146,10 @@ Do software developers have a better understanding of
 ## 3.0 Design Documentation
 
 ### 3.1 Introduction
+'Space Assault' will be a rebooted version of the classic arcade game 'Space Invaders'. It will keep the main goal of the game which is to defend your base from ailien attackers by destroying them before they land, but will incorporate more features to add more depth to the game. The feature will include things like PvP multiplayer, Power ups and new enemy types.
 
 ### 3.2 Game Objectives
+The primary objective of the game is to survive as long as you can against infinite waves of attacking alien ships. The alien ships will move from side to side and slowly descend. The player controls a single ship that they can move left or right along the bottom of the screen and can shoot upwards to destroy enemy ships. If just one ship mskes it to the ground, the game is over. They play accumulates points by destroying enemy ships. Each ship has a different point value.
 
 ### 3.3 User Stories
 
