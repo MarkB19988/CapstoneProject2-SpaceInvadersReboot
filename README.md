@@ -153,6 +153,10 @@ The primary objective of the game is to survive as long as you can against infin
 
 ### 3.3 User Stories
 
+As a user I would like to be able to open the game 
+As a user i would like to be able to view the controls (How to play)
+As a user I would like to be able to
+
 ### 3.4 Genre
 'Space Assault' will be a 2D arcade game, the game will be very similar to the original 'Space Invaders'
 
