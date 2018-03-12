@@ -139,16 +139,6 @@ How highly do software developers value testing in reducing software vulnerabili
 
 Do software developers have a better understanding of 
 
-## 2.0 Design Research
-
-### 2.1 Tools
-
-### 2.2 Techniques
-
-### 2.3 Results
-
-### 2.4 Accuracy and Reliability
-
 ## 3.0 Design Documentation
 
 ### 3.1 Introduction
@@ -167,6 +157,7 @@ The primary objective of the game is to survive as long as you can against infin
 'Space Assault' will be a 2D arcade game, the game will be very similar to the original 'Space Invaders'
 
 ### 3.5 Platform 
+I will be designing and developing my game for use on PC and will be looking to release the game via the Steam platform. I chose to develop for this platform for two reasons. Firstly I believe that I can create a better multiplayer enviroment on PC than on other 
 
 ### 3.6 Features
 
