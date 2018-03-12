@@ -119,10 +119,16 @@ On the 19th of May 2017 a killswitch was discovered within the virus' code that 
 While this was successful in stopping the spread of WannaCry, it didnt help get back data that was already encrypted on other machines. What made thid worse is that despite a strong campaign to tell people not to pay as there was no guarantee that their data would be unencrypted, many people did pay. Resulting in the person(s) behind the attack making upwards of $100,000 during the course of the attack. But despite this there were no reports of anyones data being unencrypted after paying, Leaving many thinking that the data would be unrecoverable forever.
 
 
-##### Case Study 2 (Gary McKinnon: United States Military and NASA Computers) 
+##### Case Study 2 (Ashley Madison Data Breach)
 
 ###### What Happened?
-Over a 13 month period from 2002 to 2003, a system administrator from scotland called Gary McKinnon was successfully able to access
+In July 2015, a group calling themselves "The Impact Team" stole the user data of Ashley Madison, an website that made it easy for its users to have affairs. The group accessed the company's user data and secretly copied it. They then threatened to leak it to the general public if the service was not shutdown 'immediately'. The company refused to shut the website down and initially claimed that any personal data had been erased. The website posted the following message on its twitter page.
+
+"At this time, we have been able to secure our sites, and close the unauthorized access points. We are working with law enforcement agencies, which are investigating this criminal act. Any and all parties responsible for this act of cyber-terrorism will be held responsible. Using the Digital Millennium Copyright Act (DMCA), our team has now successfully removed the posts related to this incident as well as all Personally Identifiable Information (PII) about our users published online."
+
+As they did not shut down the website as per demand, the company was on the look out for any leaks of users sensitive information and on the 18th and 20th of August 2015, the group leaked more that 25 gigabytes of the companys data, including users sentitive information. The data was uploaded to Bittorrent and was availible for anyone to download that had access to the dark web (as that is where the link to the torrent was posted). 
+
+
 
 
 ##### Primary Research
