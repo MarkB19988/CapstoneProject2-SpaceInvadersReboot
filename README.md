@@ -154,7 +154,7 @@ The primary objective of the game is to survive as long as you can against infin
 'Space Assault' will be a 2D arcade game, the game will be very similar to the original 'Space Invaders'
 
 ### 3.5 Platform 
-I will be designing and developing my game for use on PC and will be looking to release the game via the Steam platform. I chose to develop for this platform for two reasons. Firstly I believe that I can create a better multiplayer enviroment on PC than on other 
+I will be designing and developing my game for use on PC and will be looking to release the game via the Steam platform. I chose to develop for this platform for two reasons. Firstly I believe that I can create a better multiplayer enviroment on PC than on other platforms as I have more experience in developing games for the PC platform than I do for other platforms and this experience will equate to a higher quality game. Secondly I believe thst the PC platform is the most suitable for this game as the player will need to clearly see important information and have accurate controls thst sre not easy to missclick. This is the reason why I chose to not initially develop for the mobile platform however a mobile release has not been ruled out in the future.
 
 ### 3.6 Features
 
