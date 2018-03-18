@@ -78,12 +78,9 @@ To account for personal illness or emergencys, in my schedule I have set the com
 
 ### 1.9 Quality Assurance
 
-does it have bugs?
-can you control the character correctly and intuitively?
-is the game balance fair?
+In order to assure a high quality in my finished game Inwill be running extensive tests during the development of the game to assure thst all of the features I will be implementing work as intended. For example I will be testing the controls separately from the multiplayer connectivity to assure thst each one works correctly without interference from another feature. Only after all features work independently will I put them all together. By doing this I can minimize the amount of bugs that my game could have at launch
 
-im going to test during development
-im going to run a playtest for other people to try the game
+Once all of the features are together and the game is working I will start running playtests. My playtests will involve me getting 5 different people to play my game a fill out a feedback form and report any bugs they encounter while playing. During the playtest I will also be taking Quality of Life suggestions from the testers to further improve the quality of my game.
 
 ### 1.10 Feasibility Report
 
