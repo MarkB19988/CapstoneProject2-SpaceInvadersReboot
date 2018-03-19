@@ -4,15 +4,20 @@
 
 ### 1.1 Project Aims and Objectives
 
-##### Overall Project Aim
+##### Project Aims
 
 During this project I will aim to create a rebooted version of the classic game 'Space Invaders' that adds various new features such as multiplayer, powerups, and new enemies. I will aim to complete this by the 23rd March 2018.
 
-##### Individual Objectives
+During this project I will gain a deeper understanding of the different vulnerabilities a system can have and how to reduce these vulnerabilities during development. I will evaluate my self learning by the 23rd March.
 
-During this project I will gain a deeper understanding of the different vulnerabilities a system can have and how to reduce these vulnerabilities during development.
 
-During this project I will further my knowledge and gain more experience with Unity and the tools it provides.
+##### Project Objectives
+
+Design a working control scheme that is intuitive to the player.
+
+Create a fully functioning multiplayer enviroment where 2 players can interact with eachother.
+
+
 
 #####
 
