@@ -6,16 +6,20 @@
 
 ##### Project Aims
 
-During this project I will aim to create a rebooted version of the classic game 'Space Invaders' that adds various new features such as multiplayer, powerups, and new enemies. I will aim to complete this by the 23rd March 2018.
+1. During this project I will aim to create a more challenging, rebooted version of the classic game 'Space Invaders' 
 
-During this project I will gain a deeper understanding of the different vulnerabilities a system can have and how to reduce these vulnerabilities during development. I will evaluate my self learning by the 23rd March.
+2. I will create a multiplayer enviroment in which 2 players can interact with eachother
+
+3. I will create a intuative control scheme for the player
+
+4. I will create a leaderboard that is stored on a database
+
+5. The deadline for this project to be delivered is the 23rd of March 2018
 
 
 ##### Project Objectives
 
-Design a working control scheme that is intuitive to the player.
-
-Create a fully functioning multiplayer enviroment where 2 players can interact with eachother.
+How aims will be achieved, SMART
 
 
 
