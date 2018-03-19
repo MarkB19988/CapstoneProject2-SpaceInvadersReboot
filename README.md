@@ -20,7 +20,9 @@
 ##### Project Objectives
 
 How aims will be achieved, SMART
-1. To create a multiplayer enviroment I will create a database system using google firebase that both players can communicate with
+1. To create a multiplayer enviroment I will create a database system using google firebase that both players can communicate with, This will be completed by the 19th March 2018
+
+2. To make sure that my controls are intuative, I will be running playtests
 
 
 #####
