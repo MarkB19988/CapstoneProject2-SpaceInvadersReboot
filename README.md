@@ -18,7 +18,7 @@ During this project I will further my knowledge and gain more experience with Un
 
 ### 1.2 General Plan
 
-quick overview/narrative, basically an elevator pitch, 1 maybe 2 paras.
+Space assault aims to bring back the classic arcade game feel witb more feature and advanced technology at its disposal 
 
 ### 1.3 System Requirements/Resources
 In order to complete this project, I will need access to the following:
