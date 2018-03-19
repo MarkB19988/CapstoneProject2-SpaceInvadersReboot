@@ -73,13 +73,13 @@ Hardware such as my home PC or the internet router could become damaged or simpl
 ##### Personal Illness/Emergency
 Personal illness or an emergency personal matter could force me to take time away from the project and as the project had a fixed deadline, this could result in the project being incomplete by this date due to not enough time being allocated to the project.
 
-### 1.8 Contigency Plans
+### 1.8 Contingency Plans
 To try and reduce the impact these risks could have on the project I have put in place some coningecy plans to account for each risk, they are as follows:
 
 ##### Cost Management Contingency
 To account for any possible unexpected cost increases, In the total cost estimate for the project I have included and 30% overhead to act as a saftey measure that can be used to pay any unexpected costs that may arise during the project. As this money is accounted for before the project is started, I can guarentee that the money will be availible at any point during the project should it be needed.
 
-##### Hardware/Software Issuess Contingency
+##### Hardware/Software Issues Contingency
 To account for PC issues. I will have all the software that I need installed on multliple machines (Home desktop, Personal laptop and College computers). By having these back-up systems to work from, I will be able to continue my work from any one of these machines as my work will be stored on the cloud. To account for internet issues and being unable to access my cloud data, I will always keep an up ot date backup of my project on a external harddrive so I can still take this to any machine and work on my project even without internet access
 
 ##### Personal Illness/Emergency Contingency
@@ -91,7 +91,10 @@ In order to assure a high quality in my finished game Inwill be running extensiv
 
 Once all of the features are together and the game is working I will start running playtests. My playtests will involve me getting 5 different people to play my game. They will fill out a feedback form and report any bugs they encounter while playing. During the playtest I will also be taking Quality of Life suggestions from the testers to further improve the quality of my game.
 
-### 1.10 Feasibility Report
+### 1.10 Communication
+
+
+### 1.11 Feasibility Report
 
 ##### Products and Services
 'Space Assault' is a planned reboot and reimagining of the classic 1978 arcade game 'Space Invaders'. This reboot will add a numerous new features into the game while retaining the original concept and goals of the game, which is to destroy the enemy ships before they land. The features that will be added to the game are the idea of power-ups that the player can pick up that will change the behaviour of his ship (e.g. new weapons, faster movement, defence repairing). The most promenent feature that will be added is the introduction of PvP muliplayer in which one player takes on the role of defence and another player take on the role of the attackers, sending in more ships using points that they accumulate by destroying the defenders blockades and shields.
@@ -101,7 +104,7 @@ The technology required to complete this project has already been aquired. This 
 
 ##### Product Marketplace
 
-### 1.11 Research Project (How to Reduce Vulnerabilities In Software During Development)
+### 1.12 Research Project (How to Reduce Vulnerabilities In Software During Development)
 
 ##### Introduction
 Software development is the process of making a system or application to run on a piece of hardware
