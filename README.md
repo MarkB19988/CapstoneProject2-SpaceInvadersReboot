@@ -20,7 +20,7 @@
 ##### Project Objectives
 
 How aims will be achieved, SMART
-
+1. To create a multiplayer enviroment I will create a database system using google firebase that both players can communicate with
 
 
 #####
@@ -110,6 +110,9 @@ The technology required to complete this project has already been aquired. This 
 Software development is the process of making a system or application to run on a piece of hardware
 A key part of building a system is making that system secure. While new vulnerabilities in existing systems can be exposed at any time, it is always important to try and minimize or reduce the vulnerablities in a system during it's development. In order to make sure that I take the correct steps I will be undertaking a research project to determine what I can do to reduce the vulnerabilities in my game during development.
 
+##### What Are Vulnerabilities?
+Software vulnerabilities are bugs, glitches or flaws that can be found in a piece of software or an operating system. Vulnerabilities can be left in software entirely by accident if the correct precautions are not taken to identify and reduce said vulnerabilities.
+
 ##### Case Study Overview
 In order to understand how to reduce vulnerabilities during development I will be performing two case studies on recent cyber attacks that have exploited vulnerabilities in existing software. By analysing how these attacks were successful and how they were stopped I will be able to better understand how these vulnerabilities were fixed or mitigated and use these techniques in my project.
 
@@ -137,16 +140,21 @@ In July 2015, a group calling themselves "The Impact Team" stole the user data o
 
 As they did not shut down the website as per demand, the company was on the look out for any leaks of users sensitive information and on the 18th and 20th of August 2015, the group leaked more that 25 gigabytes of the companys data, including users sentitive information. The data was uploaded to Bittorrent and was availible for anyone to download that had access to the dark web (as that is where the link to the torrent was posted). 
 
-
-
-
 ##### Primary Research
 
-Do software developers practice better cyber security.
+To help me find out what developers can do to reduce vulnerabilites I will be conducting a survey that I will give to students studying software development at various levels to find out what they know about cyber security and software vulnerabilities. Using this information I will be aiming to answer 3 key questions. These are:
 
-How highly do software developers value testing in reducing software vulnerabilities?
+###### 1. Do software developers understand what good cyber security? does this understanding grow with more experience?
 
-Do software developers have a better understanding of 
+By finding out if software developers understand good cyber security I can see if there is a correlation between how much knowledge they have in software vulnerabilities and how much experience they have in software development. This information cal then tell me if less experienced developers would need to have their code checked by a more experienced collegue in order to reduce the vulnerabilities of software during development. As less of an understanding may make their software more vulnerable.
+
+###### 2. How highly do software developers value negative testing in reducing software vulnerabilities?
+
+This is a very simple question that I will grade on a scale of 1 to 10, but I can use this data to check the reliability of my survey. for example, some participents may state that they have a good knowledge of security and software vulnerabilities, however may say that they don't value negative testing (which is a key technique in reducing software vulnerabilities). This would show me that they perhaps don't have as much of an understanding as they think they do.
+
+###### 3. Do software developers know what software vulnerabilities are?
+
+In order to reduce software vulnerabilities during development you must first know what vulnerabilities are. A possible way to reduce vulnerabilities during development is to train your staff to understand what they are if they do not have a good understanding. While developers should have a good understanding of what vulnerabilities are, I am going to answer this question to see if this is the case.
 
 ## 3.0 Design Documentation
 
