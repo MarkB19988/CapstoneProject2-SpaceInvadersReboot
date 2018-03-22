@@ -34,11 +34,15 @@
 4. To make sure that the new power-ups work as intend I will be creating a test level that spawns infinite copies of each new power-up. I will then collect this power-up and compare the ingame effects it gives to the intended effects. If the effects match, then this objective will be complete. I will aim to have this completed by the 18th of March.
 
 
-#####
+##### Project Management Plan
 
-### 1.2 General Plan
+### 1.2 Communication
 
-Space assault aims to bring back the classic arcade game feel witb more feature and advanced technology at its disposal 
+As this is a solo project communication outside of working hours with team members will not be required, howerver there are several key dates that I will be presenting my progress on to my peers and the final product demonstration. Both of which will require me to deliver a presentation to show my ideas and my progress.
+
+on the 11th of March I will be presenting my ideas to my peers. for this I will be making a power point presentation and presenting it to the class. I will be using a mix of verbal, visual and non verbal (body language) communication to convey my points to my peers
+
+On the 26th of March I will be presenting my final product to my peers. Again I will be making a powerpoint presentation and using the same communication styles. However this time I will be also running a demo of the full game for my peers to play and I will be asking questions and collecting feedback from them aswell.
 
 ### 1.3 System Requirements/Resources
 In order to complete this project, I will need access to the following:
