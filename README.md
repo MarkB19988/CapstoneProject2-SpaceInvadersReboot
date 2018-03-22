@@ -84,13 +84,13 @@ My Gantt Chart shows how long I will be expecting to work on each section for (t
 
 Each of my user stories will be assigned a point value based on the challenge that they provide (1 for easy, 5 for challenging). I will use these points to map a burndown chart to help further manage my time effectively and to provide milestones for completion.
 
-###### 1. As a user I would like to be able to open the game 
-Point Value = 1
-This is a simple task as all I have to do is make the game run on the computer without crashing at startup
+##### 1. As a user I would like to be able to open the game 
+###### Point Value = 1
+###### This is a simple task as all I have to do is make the game run on the computer without crashing at startup
 
-###### 2. As a user i would like to be able to view the controls (How to play)
-Point Value = 2
-To implement this I will add a new option to the main menu for the player to click on a view information on all of the controls. the section will be titled 'How to Play'
+##### 2. As a user i would like to be able to view the controls (How to play)
+###### Point Value = 2
+###### To implement this I will add a new option to the main menu for the player to click on a view information on all of the controls. the section will be titled 'How to Play'
 
 ###### 3. As a user I would like to be able to easily navigate the menu
 Point Value = 2
