@@ -74,7 +74,64 @@ We will be adding new ships with new abilities for the player to face, such as a
 
 ### 1.6 Time Mangement/Schedule 
 
+#### Gantt Chart
+
+My Gantt Chart shows how long I will be expecting to work on each section for (timeframe)
+
 ![spaceassault-gant-chart](https://i.imgur.com/zhoxB4N.png)
+
+#### Work Breakdown Structure (User Stories)
+
+Each of my user stories will be assigned a point value based on the challenge that they provide (1 for easy, 5 for challenging). I will use these points to map a burndown chart to help further manage my time effectively and to provide milestones for completion.
+
+###### 1. As a user I would like to be able to open the game 
+###### Point Value = 1
+This is a simple task as all I have to do is make the game run on the computer without crashing at startup
+
+###### 2. As a user i would like to be able to view the controls (How to play)
+###### Point Value = 2
+To implement this I will add a new option to the main menu for the player to click on a view information on all of the controls. the section will be titled 'How to Play'
+
+###### 3. As a user I would like to be able to easily navigate the menu
+###### Point Value = 2
+I will make the main menu easy to navigate I will be allowing the user to navigate the menu using either the mouse or the keyboard arrow key or 'W A S D'
+
+###### 4. As a user I would like to be able to move my character around
+###### Point Value = 2
+The player will have a choice between using either the arrow keys of 'W A S D' to control his ship so all I need to do is test both of these control methods to make sure they work correctly
+
+###### 5. As a user I would like to be able to see the enemy ships
+###### Point Value = 2
+All I have to do is test if the NPC ships are rendering and moving correctily 
+
+###### 6. As a user I would like to be able to shoot at the enemy ships and have them be destroyed
+###### Point Value = 3
+The fire button will be bound to the space bar, so I'll have to test if this keybinding is working correctly. Also I will ahve to test the collision detection between the projectiles and the enemy ships to make sure that hits are regestering
+
+###### 7. As a user I would like to be able to keep track of my score
+###### Point Value = 2
+All ships will be assigned a different point value depending on their type. I will make a section appear at the top of the screen that shows the players current score and test each ships point value
+
+###### 8. As a user I would like to be able to know how many lives I have left
+###### Point Value = 3
+The same as the previous user story except with the players lives. I will also need to test the collision detection between the player and the NPC's projectiles.
+
+###### 9. As a user I would like to be able to know when the game is over
+###### Point Value = 1
+Display a 'Game Over' screen when the player runs out of lives
+
+###### 10. As a user I would like to be able to view the high scores
+###### Point Value = 4
+
+
+###### 11. As a user I would like to be able to see my friend control his ship on my screen (multiplayer)
+###### Point Value = 5
+
+###### 12. As a user I would like to be able to know when my friend loses a life
+###### Point Value = 4
+
+###### 13. As a user I would like to be able to leave the game at any point
+###### Point Value = 1
 
 ### 1.7 Risks
 The project runs several risks that could cause problems that would set back the project, they consist of the following:
