@@ -34,7 +34,7 @@
 4. To make sure that the new power-ups work as intend I will be creating a test level that spawns infinite copies of each new power-up. I will then collect this power-up and compare the ingame effects it gives to the intended effects. If the effects match, then this objective will be complete. I will aim to have this completed by the 18th of March.
 
 
-##### Project Management Plan
+### Project Management Plan
 
 ### 1.2 Communication
 
