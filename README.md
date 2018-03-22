@@ -106,10 +106,7 @@ In order to assure a high quality in my finished game Inwill be running extensiv
 
 Once all of the features are together and the game is working I will start running playtests. My playtests will involve me getting 5 different people to play my game. They will fill out a feedback form and report any bugs they encounter while playing. During the playtest I will also be taking Quality of Life suggestions from the testers to further improve the quality of my game.
 
-### 1.10 Communication
-
-
-### 1.11 Feasibility Report
+### 1.10 Feasibility Report
 
 ##### Products and Services
 'Space Assault' is a planned reboot and reimagining of the classic 1978 arcade game 'Space Invaders'. This reboot will add a numerous new features into the game while retaining the original concept and goals of the game, which is to destroy the enemy ships before they land. The features that will be added to the game are the idea of power-ups that the player can pick up that will change the behaviour of his ship (e.g. new weapons, faster movement, defence repairing). The most promenent feature that will be added is the introduction of PvP muliplayer in which one player takes on the role of defence and another player take on the role of the attackers, sending in more ships using points that they accumulate by destroying the defenders blockades and shields.
@@ -119,7 +116,7 @@ The technology required to complete this project has already been aquired. This 
 
 ##### Product Marketplace
 
-### 1.12 Research Project (How to Reduce Vulnerabilities In Software During Development)
+### 1.11 Research Project (How to Reduce Vulnerabilities In Software During Development)
 
 ##### Introduction
 Software development is the process of making a system or application to run on a piece of hardware
