@@ -2,7 +2,11 @@
 
 ## 1.0 Project Management Documentation
 
-### 1.1 Project Aims and Objectives
+### 1.1 Project Overview, Aims and Objectives
+
+##### Overview
+
+'Space Assault' will be a rebooted version of the classic arcade game 'Space Invaders'. It will keep the main goal of the game which is to defend your base from ailien attackers by destroying them before they land, but will incorporate more features to add more depth to the game. The feature will include things like PvP multiplayer, Power ups and new enemy types.
 
 ##### Project Aims
 
@@ -14,15 +18,20 @@
 
 4. I will create a leaderboard that is stored on a database
 
-5. The deadline for this project to be delivered is the 23rd of March 2018
+5. I will implement 5 new power-ups that can aid the player.
+
+6. I will aim to have this project ready to be delivered by the 23rd of March 2018
 
 
 ##### Project Objectives
 
-How aims will be achieved, SMART
-1. To create a multiplayer enviroment I will create a database system using google firebase that both players can communicate with, This will be completed by the 19th March 2018
+1. To create a multiplayer enviroment I will create a database system using google firebase. I will then run a test to make sure that both players ships can be seen and move when the other play moves, When both players ships move correctly this objective will be met. This will be completed by the 19th March 2018.
 
-2. To make sure that my controls are intuative, I will be running playtests
+2. To make sure that my controls are intuative, I will be running playtests with my peers. To measure how close I am to an intuitive control shceme I will be asking participents to rate the controls out of 10 for how easy they were to understand and figure out. If the average respose is atleast a 7 out of 10, this objective will be met. I will aim to have this complete by the 15th of March.
+
+3. To create my leaderboard database I will also be using google firebase. To check if all players will be able accesss the database I will be putting placeholder values in the database and testing the ingame leaderboard to see if it displays those values. If it does display those values, this objective will be met. I will aim to have this completed by the 15th of March.
+
+4. To make sure that the new power-ups work as intend I will be creating a test level that spawns infinite copies of each new power-up. I will then collect this power-up and compare the ingame effects it gives to the intended effects. If the effects match, then this objective will be complete. I will aim to have this completed by the 18th of March.
 
 
 #####
