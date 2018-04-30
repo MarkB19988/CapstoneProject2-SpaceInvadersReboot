@@ -150,6 +150,11 @@ I have 4 weeks until the project deadline so in order to manage my time and work
 | Week 3 (9th of March - 16th of March)            | The user stories I will be aiming to complete this week are stories 9, 10 and 13. | These give me a total for value for this week of 6 | This is the lightest week in terms of workload so this is where I could make up for lost time or get ahead on next weeks work. Completing these 3 stories will provide the game with its leaderboard functions and the leave game button will allow the player to restart the game with ease. |
 | Week 4 (16th of March - 23rd of March)           | The user stories I will be aiming to complete this week are stories 11 and 12. | These give me a total for this week of 9. | This is the last week I have before the project deadline. At this point the game will have a fully working single player so this week will be focused on building the multiplayer. This is what I believe to be the most dificult aspect so as the previous week has less of a point value I may be able to start working on this weeks work earlier. |
 
+### Burndown Chart
+This burndown chart shows how well I kept to my sprint schedule and tracks how many points I had left to complete at any given time
+
+![Imgur](https://i.imgur.com/iptYhM7.jpg)
+
 ### 1.7 Risks
 The project runs several risks that could cause problems that would set back the project, they consist of the following:
 
