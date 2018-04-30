@@ -211,7 +211,13 @@ By performing this research of software vulnerabilities I will be able to use wh
 There are two distinctive types of research that can provide different types of data, these are Qualitative and Quantitative research. Qualitative research refers to more detailed data that is not numerical, such as interviews and case studies. This type of research provides a more in depth look into the area of your research and allows for mroe detailed conclusions to be drawn. Quantitative research refers to information gathered that is numerical and can be quantified. This type of research is best used in surveys that have a large number of participents as this type of data can be collected quickly. It can be used to create charts and graphs to provide a visual representation of the views of the participents on a given subject or question.
 
 ##### Methods of Information Gathering
-For this research project I will be performing both qualitative and quantitative research in order to 
+For this research project I will be performing both qualitative and quantitative research in order to get a wide range of data to draw conclusions from. For my qualitative data I will be conducting two case studies on different cyber attacks or security breaches in order to find out how these attacks happened and what was done to prevent future attacks. For my quantitative data I will be creating a survey that I will be giving out a survey to programming students studying at various levels to find out how much programmers know about cyber security and if they practice good security themselves.
+
+##### Survey Participent Demographic
+For my survey I will be targeting programmers that are studying and various levels, this will range from level 2 all the way up to level 5 students. I am targeting programmers because these are the people that will need to thing about software vulnerabilities the most and will need to come up with ways to reduce these vulnerabilities while creating their software. The reason I have chosen to give the survey to programmers at various levels of study is to see if the ammount of experience a programmer has affects their knowledge of security and how to reduce software vulnerabilities. The participents themselves can be of any race or gender as this would have no effect of their programming abilities. As long as they study programming at a level between 2 and 5 then they cna fill out the survey.
+
+#####
+
 
 ##### Case Study Overview
 In order to understand how to reduce vulnerabilities during development I will be performing two case studies on recent cyber attacks that have exploited vulnerabilities in existing software. By analysing how these attacks were successful and how they were stopped I will be able to better understand how these vulnerabilities were fixed or mitigated and use these techniques in my project.
