@@ -198,13 +198,20 @@ The technology required to complete this project has already been aquired. This 
 ### 1.11 Research Project (How to Reduce Vulnerabilities In Software During Development)
 
 ##### Introduction
-Software development is the process of making a system or application to run on a piece of hardware
+Software development is the process of making a system or application.
 A key part of building a system is making that system secure. While new vulnerabilities in existing systems can be exposed at any time, it is always important to try and minimize or reduce the vulnerablities in a system during it's development. In order to make sure that I take the correct steps I will be undertaking a research project to determine what I can do to reduce the vulnerabilities in my game during development.
 
 ##### What Are Vulnerabilities?
 Software vulnerabilities are bugs, glitches or flaws that can be found in a piece of software or an operating system. Vulnerabilities can be left in software entirely by accident if the correct precautions are not taken to identify and reduce said vulnerabilities.
 
-##### How Does This Research Link To My Project
+##### How Does This Research Link To My Project Aims and Objectives?
+By performing this research of software vulnerabilities I will be able to use what I learn to reduce the vulnerabilities in my game during development. As the game will have a multiplayer aspect to it. The will be an even greater need for a secure connection with no vulnerabilities that can be exploited. This research will help me to understand how to test for vulnerabilities and how to better reduce the risks of vulnerabilities being implemented into my software by accident.
+
+##### Difference Between Qualitative and Quantitative Research
+There are two distinctive types of research that can provide different types of data, these are Qualitative and Quantitative research. Qualitative research refers to more detailed data that is not numerical, such as interviews and case studies. This type of research provides a more in depth look into the area of your research and allows for mroe detailed conclusions to be drawn. Quantitative research refers to information gathered that is numerical and can be quantified. This type of research is best used in surveys that have a large number of participents as this type of data can be collected quickly. It can be used to create charts and graphs to provide a visual representation of the views of the participents on a given subject or question.
+
+##### Methods of Information Gathering
+For this research project I will be performing both qualitative and quantitative research in order to 
 
 ##### Case Study Overview
 In order to understand how to reduce vulnerabilities during development I will be performing two case studies on recent cyber attacks that have exploited vulnerabilities in existing software. By analysing how these attacks were successful and how they were stopped I will be able to better understand how these vulnerabilities were fixed or mitigated and use these techniques in my project.
