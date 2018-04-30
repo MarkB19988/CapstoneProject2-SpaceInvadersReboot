@@ -267,6 +267,11 @@ This is a very simple question that I will grade on a scale of 1 to 10, but I ca
 
 In order to reduce software vulnerabilities during development you must first know what vulnerabilities are. A possible way to reduce vulnerabilities during development is to train your staff to understand what they are if they do not have a good understanding. While developers should have a good understanding of what vulnerabilities are, I am going to answer this question to see if this is the case.
 
+##### Table of Results
+Below is a table of all of the survey results that I collected.
+
+![Imgur](https://i.imgur.com/QBto2ob.png)
+
 
 
 ## 3.0 Design Documentation
