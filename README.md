@@ -272,6 +272,23 @@ Below is a table of all of the survey results that I collected.
 
 ![Imgur](https://i.imgur.com/QBto2ob.png)
 
+##### Data Analysis
+To analyse the data that I have collected I will be using a number of tools and techniques to go in depth into my data to try and draw meaningful conclusions that I can use in my project.
+
+##### Cross Referenced Questions
+The first thing I will be doing to analyse and extract results from my data is using my survey answers to answer the 3 questions I set out to answer at the start of my primary research. The first question I will be answering is the following:
+
+###### Do software developers understand what good cyber security? does this understanding grow with more experience?
+To answer this question I will need to look at few question that were included in my survey specifically. These are questions 3, 4, 6 and what course level they are on. 
+
+Looking at questions 3 and 4, if my theory that more experience leads to a better knowledge of cyber security is true, I would have expected people with more experience to know that a stronger password is one that has more characters. This is because a computer will take longer to crack a password if there is more data that it has to get correct.
+
+An initial look at the answers for these 2 questions shows that a higher percentage of programmers know that a stronger password is the one with more characters as only 8 out of the 20 participents chose answers that were the opposite to this. Getting the questions right wasn't what I was looking for, what I was looking for is if people knew that more characters would take longer.
+
+However this isn't the complete question answered. To answer this correctly I had look at the results in more depth and compare participents answers to what level they are studying at. When I did this I found that my theory was correct, 
+
+
+
 
 
 ## 3.0 Design Documentation
