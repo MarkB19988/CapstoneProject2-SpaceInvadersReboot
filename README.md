@@ -139,30 +139,20 @@ Each of my user stories will be assigned a point value based on the challenge th
 ### Sprint Structure
 I have 4 weeks until the project deadline so in order to manage my time and workload I will be dividing my user strories into four week long sprints that have a similar point value each week. My sprints are as follows:
 
-##### Week 1 (23rd of Febuary - 2nd of March)
-The user stories I will be aiming to complete this week are stories 1, 2, 3, 4 and 5. 
 
-These give me a total point value for this week of 9. 
 
-Completing these 5 stories will also provide me with the core mechanics that I can build upon to complete my future sprints.
 
-##### Week 2 (2nd of March - 9th of March)
-The user stories I will be aiming to complete this week are stories 6, 7 and 8.
-
-These give me a total point value of 8 
-
-Completing these 3 stories will give me the main body of my game and a early demo that I can test and get other people to play for feedback. 
 
 | Week and Date | Stories Being Worked On | Sprint Point Value | Comments |
 |----------------------------|------------------------------|----------------------|--------------------------------|
-| Week 3 (9th of March - 16th of March) | The user stories I will be aiming to complete this week are stories 9, 10 and 13. | These give me a total for value for this week of 6 |This is the lightest week in terms of workload so this is where I could make up for lost time or get ahead on next weeks work. Completing these 3 stories will provide the game with its leaderboard functions and the leave game button will allow the player to restart the game with ease|
 
-##### Week 4 (16th of March - 23rd of March)
-The user stories I will be aiming to complete this week are stories 11 and 12.
+| Week 1 (23rd of Febuary - 2nd of March) | The user stories I will be aiming to complete this week are stories 1, 2, 3, 4 and 5. | These give me a total point value for this week of 9. | Completing these 5 stories will also provide me with the core mechanics that I can build upon to complete my future sprints.|
 
-These give me a total for this week of 9.
+| Week 2 (2nd of March - 9th of March) | The user stories I will be aiming to complete this week are stories 6, 7 and 8. | These give me a total point value of 8 | Completing these 3 stories will give me the main body of my game and a early demo that I can test and get other people to play for feedback. |
 
-This is the last week I have before the project deadline. At this point the game will have a fully working single player so this week will be focused on building the multiplayer. This is what I believe to be the most dificult aspect so as the previous week has less of a point value I may be able to start working on this weeks work earlier.
+| Week 3 (9th of March - 16th of March) | The user stories I will be aiming to complete this week are stories 9, 10 and 13. | These give me a total for value for this week of 6 |This is the lightest week in terms of workload so this is where I could make up for lost time or get ahead on next weeks work. Completing these 3 stories will provide the game with its leaderboard functions and the leave game button will allow the player to restart the game with ease. |
+
+| Week 4 (16th of March - 23rd of March) | The user stories I will be aiming to complete this week are stories 11 and 12. | These give me a total for this week of 9. | This is the last week I have before the project deadline. At this point the game will have a fully working single player so this week will be focused on building the multiplayer. This is what I believe to be the most dificult aspect so as the previous week has less of a point value I may be able to start working on this weeks work earlier. |
 
 ### 1.7 Risks
 The project runs several risks that could cause problems that would set back the project, they consist of the following:
