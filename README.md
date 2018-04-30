@@ -204,6 +204,8 @@ A key part of building a system is making that system secure. While new vulnerab
 ##### What Are Vulnerabilities?
 Software vulnerabilities are bugs, glitches or flaws that can be found in a piece of software or an operating system. Vulnerabilities can be left in software entirely by accident if the correct precautions are not taken to identify and reduce said vulnerabilities.
 
+##### How Does This Research Link To My Project
+
 ##### Case Study Overview
 In order to understand how to reduce vulnerabilities during development I will be performing two case studies on recent cyber attacks that have exploited vulnerabilities in existing software. By analysing how these attacks were successful and how they were stopped I will be able to better understand how these vulnerabilities were fixed or mitigated and use these techniques in my project.
 
