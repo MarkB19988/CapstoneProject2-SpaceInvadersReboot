@@ -216,10 +216,15 @@ For this research project I will be performing both qualitative and quantitative
 ##### Survey Participent Demographic
 For my survey I will be targeting programmers that are studying and various levels, this will range from level 2 all the way up to level 5 students. I am targeting programmers because these are the people that will need to thing about software vulnerabilities the most and will need to come up with ways to reduce these vulnerabilities while creating their software. The reason I have chosen to give the survey to programmers at various levels of study is to see if the ammount of experience a programmer has affects their knowledge of security and how to reduce software vulnerabilities. The participents themselves can be of any race or gender as this would have no effect of their programming abilities. As long as they study programming at a level between 2 and 5 then they cna fill out the survey.
 
-#####
+##### Sampling Approach and Method
+For my survey I will be using stratified sampling to chose people to fill out my survey. Anyone who studies programming can ask to be a participent up to a maximum of 20 people. However I will be choosing a specific number of people for each level group to fill out the survey. This is because I want to see if their is a correlation between the level of study and their knowledge of software vulnerabilities. For this reason I need to make sure I get participents from each level group.
 
+The only issue of bias that could arise is if someone from my class filled out a survey for my level 4 programmer grouping. They could want to make jokes on my survey and not give accurate answers. So for this reason I will be trying to avoid having any participents I know personally.
 
-##### Case Study Overview
+##### Ethical Issues with Data Collection
+To avoid any ethical issues arising auring my research with regards to consent forms and sensitive data about participents, I will not be asking any participents for any sensitive data at all. The survey will be anonymous for any and all participents, they will only have to state their level of study on the survey, the rest of the questions are a test of their knowledge.
+
+#### Case Study Overview
 In order to understand how to reduce vulnerabilities during development I will be performing two case studies on recent cyber attacks that have exploited vulnerabilities in existing software. By analysing how these attacks were successful and how they were stopped I will be able to better understand how these vulnerabilities were fixed or mitigated and use these techniques in my project.
 
 ##### Case Study 1 (WannaCry Ransomware Attack)
@@ -261,6 +266,8 @@ This is a very simple question that I will grade on a scale of 1 to 10, but I ca
 ###### 3. Do software developers know what software vulnerabilities are?
 
 In order to reduce software vulnerabilities during development you must first know what vulnerabilities are. A possible way to reduce vulnerabilities during development is to train your staff to understand what they are if they do not have a good understanding. While developers should have a good understanding of what vulnerabilities are, I am going to answer this question to see if this is the case.
+
+
 
 ## 3.0 Design Documentation
 
