@@ -288,6 +288,11 @@ An initial look at the answers for these 2 questions shows that a higher percent
 However this isn't the complete question answered. To answer this correctly I had look at the results in more depth and compare participents answers to what level they are studying at. When I did this I found that my theory was correct, 
 
 
+##### The Value of Undertaking This Research
+
+The research I undertook proved to be extremely useful and valuable in my efforts to meet my project aims and objectives. The conclusions that I was able to draw provided me with valuable knowledge that enabled me to make my game as secure as possible
+
+
 
 
 
