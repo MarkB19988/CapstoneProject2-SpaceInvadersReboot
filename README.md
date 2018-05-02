@@ -285,7 +285,7 @@ Looking at questions 3 and 4, if my theory that more experience leads to a bette
 
 An initial look at the answers for these 2 questions shows that a higher percentage of programmers know that a stronger password is the one with more characters as only 8 out of the 20 participents chose answers that were the opposite to this. Getting the questions right wasn't what I was looking for, what I was looking for is if people knew that more characters would take longer.
 
-However this isn't the complete question answered. To answer this correctly I had look at the results in more depth and compare participents answers to what level they are studying at. When I did this I found that my theory was correct, 
+However this isn't the complete question answered. To answer this correctly I had look at the results in more depth and compare participents answers to what level they are studying at. When I did this I found that my theory was correct, as 2 out of the 3 level 5 participents knew that more characters meant a stronger password, as opposed to only 
 
 
 ##### The Value of Undertaking This Research
