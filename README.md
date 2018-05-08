@@ -6,7 +6,7 @@
 
 ##### Overview
 
-'Space Assault' will be a rebooted version of the classic arcade game 'Space Invaders'. It will keep the main goal of the game which is to defend your base from ailien attackers by destroying them before they land, but will incorporate more features to add more depth to the game. The feature will include things like PvP multiplayer, Power ups and new enemy types.
+'Space Assault' will be a rebooted version of the classic arcade game 'Space Invaders'. It will keep the main goal of the game which is to defend your base from alien attackers by destroying them before they land, but will incorporate more features to add more depth to the game. These features will include things like PvP multiplayer, Power ups and new enemy types.
 
 ##### Project Aims
 
@@ -255,7 +255,7 @@ As they did not shut down the website as per demand, the company was on the look
 
 To help me find out what developers can do to reduce vulnerabilites I will be conducting a survey that I will give to students studying software development at various levels to find out what they know about cyber security and software vulnerabilities. Using this information I will be aiming to answer 3 key questions. These are:
 
-###### 1. Do software developers understand what good cyber security? does this understanding grow with more experience?
+###### 1. Do software developers understand what good cyber security is? does this understanding grow with more experience?
 
 By finding out if software developers understand good cyber security I can see if there is a correlation between how much knowledge they have in software vulnerabilities and how much experience they have in software development. This information cal then tell me if less experienced developers would need to have their code checked by a more experienced collegue in order to reduce the vulnerabilities of software during development. As less of an understanding may make their software more vulnerable.
 
@@ -278,7 +278,7 @@ To analyse the data that I have collected I will be using a number of tools and 
 ##### Cross Referenced Questions
 The first thing I will be doing to analyse and extract results from my data is using my survey answers to answer the 3 questions I set out to answer at the start of my primary research. The first question I will be answering is the following:
 
-###### Do software developers understand what good cyber security? does this understanding grow with more experience?
+###### Do software developers understand what good cyber security is? does this understanding grow with more experience?
 To answer this question I will need to look at few question that were included in my survey specifically. These are questions 3, 4, 6 and what course level they are on. 
 
 Looking at questions 3 and 4, if my theory that more experience leads to a better knowledge of cyber security is true, I would have expected people with more experience to know that a stronger password is one that has more characters. This is because a computer will take longer to crack a password if there is more data that it has to get correct.
