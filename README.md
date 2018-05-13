@@ -285,12 +285,27 @@ Looking at questions 3 and 4, if my theory that more experience leads to a bette
 
 An initial look at the answers for these 2 questions shows that a higher percentage of programmers know that a stronger password is the one with more characters as only 8 out of the 20 participents chose answers that were the opposite to this. Getting the questions right wasn't what I was looking for, what I was looking for is if people knew that more characters would take longer.
 
-However this isn't the complete question answered. To answer this correctly I had look at the results in more depth and compare participents answers to what level they are studying at. When I did this I found that my theory was correct, as 2 out of the 3 level 5 participents knew that more characters meant a stronger password, as opposed to only 
+However this isn't the complete question answered. To answer this correctly I had look at the results in more depth and compare participents answers to what level they are studying at. When I did this I found that my theory was correct, as 2 out of the 3 level 5 participents knew that more characters meant a stronger password, as opposed to only
+
+##### Valid and Meaningful Conclusions
+
+Using all of my above research I have been able to draw the three following conclusions.
+
+##### Conclusion 1
+###### Software developers understanding of cyber-security does grow with software development experience
+
+##### Conclusion 2
+
+##### Conclusion 3
 
 
-##### The Value of Undertaking This Research
+##### Reflection of The Value of Undertaking This Research
 
-The research I undertook proved to be extremely useful and valuable in my efforts to meet my project aims and objectives. The conclusions that I was able to draw provided me with valuable knowledge that enabled me to make my game as secure as possible
+The research I undertook proved to be extremely useful and valuable in my efforts to meet my project aims and objectives. The conclusions that I was able to draw provided me with valuable knowledge that enabled me to make my game as secure as possible and deliver a high quality game. However when looking back at my research project, there is a specific area that I could have done slightly differently that could have improve the ammount or quality of the knowledge that I took away. I could have asked my survey participents questions that were more related to security and vulnerabilities within games rather than the more general questions that I asked. I feel that if I was more specific in my questioning I could have had responses and data that was more closely related to my project. This would have made the process of implementing what I had learned from my research alot easier as it would have been alot easier to see what I could implement directly into my game, without having to analyse my research into as much depth as I did. However despite this, I was still able to collect a large ammount of useful data that I was able to implement into my game.
+
+Not only was this research helpful to me in terms of me completing my project to a high standard, but I was able to take what I learned and use it to improve how I handle my own cyber-security at home and at work. I was able to use this research to further my own understanding and knowledge in this area.
+
+
 
 
 
