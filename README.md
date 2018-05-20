@@ -289,15 +289,18 @@ However this isn't the complete question answered. To answer this correctly I ha
 
 ##### Valid and Meaningful Conclusions
 
-Using all of my above research I have been able to draw the three following conclusions.
+Using all of my above research I have been able to draw the three following conclusions about how to reduce vulnerabilities during software development
 
 ##### Conclusion 1
-###### Software developers understanding of cyber-security does grow with software development experience
+###### Hireing more experienced software developers will lead to more secure software
+
+I came to this conclusion by looking at my results from my survey. From these results it was clear that software developers that were studying at a higher level showed a greater understanding of what software vulnerabilities are and how to reduce them, as well as having a better overall knowledge of cyber-security in general
 
 ##### Conclusion 2
+###### Thourough negative testing can drastically reduce software vulnerabilities
 
 ##### Conclusion 3
-
+###### Releasing consistent security updates for your software can drastically reduce software vulnerabilities
 
 ##### Reflection of The Value of Undertaking This Research
 
