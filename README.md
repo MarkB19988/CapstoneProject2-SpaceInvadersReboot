@@ -301,6 +301,8 @@ There was however one clear outlier in my results in which one participent score
 ###### Do software developers know what software vulnerabilities are?
 While at face value this question seems very simple, It is actually a very important question that I believed could not be overlooked during my research. This is because in order to reduce vulnerabilities in software you must first know what vulnerabilities are in order to know what to look for. To answer this question I will be looking at questions 5 through 8 as these questions specifically refer to different vulnerabilities.
 
+Quesiont 5 reads "A Trojan Horse is?" and the participents have to choose between 4 options 
+
 
 ##### Valid and Meaningful Conclusions
 
