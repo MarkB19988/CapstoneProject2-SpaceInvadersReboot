@@ -300,9 +300,6 @@ There was however one clear outlier in my results in which one participent score
 While at face value this question seems very simple, It is actually a very important question that I believed could not be overlooked during my research. This is because in order to reduce vulnerabilities in software you must first know what vulnerabilities are in order to know what to look for. To answer this question I will be looking at questions 5 through 8 as these questions specifically refer to different vulnerabilities.
 
 
-
-
-
 ##### Valid and Meaningful Conclusions
 
 Using all of my above research I have been able to draw the three following conclusions about how to reduce vulnerabilities during software development
@@ -310,12 +307,12 @@ Using all of my above research I have been able to draw the three following conc
 ##### Conclusion 1
 ###### Hireing more experienced software developers will lead to more secure software
 
-I came to this conclusion by looking at my results from my survey. From these results it was clear that software developers that were studying at a higher level showed a greater understanding of what software vulnerabilities are and how to reduce them, as well as having a better overall knowledge of cyber-security in general
+I came to this conclusion by looking at my results from my survey. From these results it was clear that software developers that were studying at a higher level showed a greater understanding of what software vulnerabilities are and how to reduce them, as well as having a better overall knowledge of cyber-security in general. Using these findings, I am able to conclude that hireing more experienced software developers and programmers will in turn lead to a much more secure end product.
 
 ##### Conclusion 2
 ###### Thourough negative testing can drastically reduce software vulnerabilities
 
-I came to this conclusion
+I came to this conclusion by both looking at my survey and my case studies. From my survey I took the results from my second question that I wanted to answer which was "How highly do software developers value negative testing in reducing software vulnerabilities?" in which I looked at results for a specific question on my survey. From this I am able to see that almost all software developers of any skill level highly value negative testing which in itself leads me to believe that thourough negative testing is important. Also, by looking at my case studies I can see that many of the vulnerabilities displayed in these events could easily have been identified if more thourough testing was carried out by the developers.
 
 ##### Conclusion 3
 ###### Releasing consistent security updates for your software can drastically reduce software vulnerabilities
