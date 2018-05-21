@@ -296,6 +296,11 @@ As you can see, overall, developers of all levels indicated that they believe ne
 
 There was however one clear outlier in my results in which one participent scored this question with a 1, meaning 'not important'. I have included this result in my average calculations and left it in my data and graphs however attention must be drawn to the fact that this was almost certainly someone not taking the survey seriously and leaving deliberatly wild answers. This is because no other participent scored lower than a 5 on this question, making the appearence of a 1 suspicious.
 
+###### Do software developers know what software vulnerabilities are?
+While at face value this question seems very simple, It is actually a very important question that I believed could not be overlooked during my research. This is because in order to reduce vulnerabilities in software you must first know what vulnerabilities are in order to know what to look for. To answer this question I will be looking at questions 5 through 8 as these questions specifically refer to different vulnerabilities.
+
+
+
 
 
 ##### Valid and Meaningful Conclusions
@@ -309,6 +314,8 @@ I came to this conclusion by looking at my results from my survey. From these re
 
 ##### Conclusion 2
 ###### Thourough negative testing can drastically reduce software vulnerabilities
+
+I came to this conclusion
 
 ##### Conclusion 3
 ###### Releasing consistent security updates for your software can drastically reduce software vulnerabilities
