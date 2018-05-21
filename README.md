@@ -285,7 +285,18 @@ Looking at questions 3 and 4, if my theory that more experience leads to a bette
 
 An initial look at the answers for these 2 questions shows that a higher percentage of programmers know that a stronger password is the one with more characters as only 8 out of the 20 participents chose answers that were the opposite to this. Getting the questions right wasn't what I was looking for, what I was looking for is if people knew that more characters would take longer.
 
-However this isn't the complete question answered. To answer this correctly I had look at the results in more depth and compare participents answers to what level they are studying at. When I did this I found that my theory was correct, as 2 out of the 3 level 5 participents knew that more characters meant a stronger password, as opposed to only
+However this isn't the complete question answered. To answer this correctly I had look at the results in more depth and compare participents answers to what level they are studying at. When I did this I found that my theory was correct, as 2 out of the 3 level 5 participents knew that more characters meant a stronger password, as opposed to only 3 of the 14 level 2 to 3 students.
+
+###### How highly do software developers value negative testing in reducing software vulnerabilities?
+This question was a easy question to gather data to answer. I asked all of the participents a question that read "On a scale of 1 to 10 with 10 being essential and 1 being not important, how important do you think negative testing is in reducing vulnerabilities in software?" The participents were also provided on the survey with a definition of what negative testing was to avoid confusion.
+
+Below is a bar chart showing my results:
+
+As you can see, overall, developers of all levels indicated that they believe negative testing is highly valuable in reducing vulnerabilities in software. With a mean average response of 7.75 I can say with confidence that software developers do indeed highly value negative testing.
+
+There was however one clear outlier in my results in which one participent scored this question with a 1, meaning 'not important'. I have included this result in my average calculations and left it in my data and graphs however attention must be drawn to the fact that this was almost certainly someone not taking the survey seriously and leaving deliberatly wild answers. This is because no other participent scored lower than a 5 on this question, making the appearence of a 1 suspicious.
+
+
 
 ##### Valid and Meaningful Conclusions
 
