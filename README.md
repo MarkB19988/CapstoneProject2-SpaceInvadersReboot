@@ -305,9 +305,17 @@ As you can see, overall, developers of all levels indicated that they believe ne
 There was however one clear outlier in my results in which one participent scored this question with a 1, meaning 'not important'. I have included this result in my average calculations and left it in my data and graphs however attention must be drawn to the fact that this was almost certainly someone not taking the survey seriously and leaving deliberatly wild answers. This is because no other participent scored lower than a 5 on this question, making the appearence of a 1 suspicious.
 
 ###### Do software developers know what software vulnerabilities are?
-While at face value this question seems very simple, It is actually a very important question that I believed could not be overlooked during my research. This is because in order to reduce vulnerabilities in software you must first know what vulnerabilities are in order to know what to look for. To answer this question I will be looking at questions 5 through 8 as these questions specifically refer to different vulnerabilities.
+While at face value this question seems very simple, It is actually a very important question that I believed could not be overlooked during my research. This is because in order to reduce vulnerabilities in software you must first know what vulnerabilities are in order to know what to look for. To answer this question I will be looking at questions 5 and 6 as these questions specifically refer to different vulnerabilities.
 
-Quesiont 5 reads "A Trojan Horse is?" and the participents have to choose between 4 options 
+Question 5 reads "A Trojan Horse is?" and the participents have to choose between 4 options. I asked this question as I wanted to see if sofware developers know the definitions of different viruses and threats, as knowing what they are and what they do is the first step in stopping them. My resuts show me that 14 out of 20 of the participents chose the correct definition.
+
+Below is a pie chart showing my results:
+
+![Imgur](https://i.imgur.com/A9YBuci.jpg)
+
+Question 6 reads "Briefly describe the effect the consistent 'Coding Standards' can have on software security." The purpose of this question was to see if programmers of all levels know that good and consistent coding standards can prove invaluable in reducing vulnerabilities in software as poor code structure in itself can be a vulnerability to the right people. My resuts contradict what I saw in question 5 as 10 out of 20 of the participents did not put anything for this question, showing that they do not know anything about coding standards. Some of the answers given were very short and not always correct, such as one answer which simple read "indentation" this also shows me that there is a lack of understanding about coding standards with my participents.
+
+However saying this, my results also show me that as the level of study increases so does programmers understanding of what coding standards are and how they have an effect as more of the better answers were given by level 4 and 5 students.
 
 
 ##### Valid and Meaningful Conclusions
