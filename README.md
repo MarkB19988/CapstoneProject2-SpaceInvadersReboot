@@ -298,6 +298,8 @@ This question was a easy question to gather data to answer. I asked all of the p
 
 Below is a bar chart showing my results:
 
+![Imgur](https://i.imgur.com/6GQOJBt.jpg)
+
 As you can see, overall, developers of all levels indicated that they believe negative testing is highly valuable in reducing vulnerabilities in software. With a mean average response of 7.75 I can say with confidence that software developers do indeed highly value negative testing.
 
 There was however one clear outlier in my results in which one participent scored this question with a 1, meaning 'not important'. I have included this result in my average calculations and left it in my data and graphs however attention must be drawn to the fact that this was almost certainly someone not taking the survey seriously and leaving deliberatly wild answers. This is because no other participent scored lower than a 5 on this question, making the appearence of a 1 suspicious.
